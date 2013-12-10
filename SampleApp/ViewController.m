@@ -18,13 +18,18 @@
 {
     [super viewDidLoad];
     
-    NSLog(@"This is a sample App");
-	// Do any additional setup after loading the view, typically from a nib.
+
+    NSLog(@"This is a Sample App 123");
+    NSLog(@"This is a Sample App 123");
+
+// Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
+    
+    NSLog(@"Memory Warning ...");
     // Dispose of any resources that can be recreated.
 }
 
