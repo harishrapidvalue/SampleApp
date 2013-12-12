@@ -19,8 +19,7 @@
     [super viewDidLoad];
     
 
-    NSLog(@"This is a Sample App 123");
-    NSLog(@"This is a Sample App 123");
+    NSLog(@"Changes made by User2");
 
 // Do any additional setup after loading the view, typically from a nib.
 }
